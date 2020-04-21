@@ -45,10 +45,10 @@ h1 {
   margin-bottom: 100px;
 }
 
-#data-info {
+/* #data-info {
   width: 60vw;
   margin: 50px auto;
-}
+} */
 
 #output{
   display: flex;
